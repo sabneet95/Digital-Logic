@@ -1,2 +1,2 @@
-# Digital_Logic
+# Digital-Logic
  Circuits
