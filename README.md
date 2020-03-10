@@ -1,2 +1,1 @@
-# Digital-Logic
- Circuits
+# Academic Digital Logic Circuits
