@@ -1,6 +1,6 @@
-# VBA Automation - Workflow Pipelines
+# Digital Logic - Academic Simulations
 
-A repository of VBA-based automation solutions for atmospheric sciences and neurophysics.
+A repository of VHDL & Verilog circuits for academic purposes!
 
 ![](https://github.com/sabneet95/Digital-Logic/blob/master/simulation.jpg)
 
@@ -8,7 +8,7 @@ A repository of VBA-based automation solutions for atmospheric sciences and neur
 
 ## Requirements
 
-[VBA 7 or above](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
+[ModelSim (Optional)](https://www.mentor.com/products/fv/modelsim/)
 
 ## Build Tested
 
