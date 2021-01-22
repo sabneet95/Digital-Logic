@@ -2,7 +2,7 @@
 
 A repository of VBA-based automation solutions for atmospheric sciences and neurophysics.
 
-![](https://github.com/sabneet95/VBA-Automation/blob/master/vba.jpg)
+![](https://github.com/sabneet95/Digital-Logic/blob/master/simulation.jpg)
 
 → `Domain-specific code! Will not work on its own but can be modified for other projects.`
 
