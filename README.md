@@ -12,29 +12,22 @@ A repository of VHDL & Verilog circuits for academic purposes!
 
 ## Build Tested
 
-Microsoft Excel
-* Version: 16.0.13714.20000 64-bit
+Visual Studio Code
+* Version: 1.52.1 (system setup)
+* Commit: ea3859d4ba2f3e577a159bc91e3074c5d85c0523
+* Electron: 9.3.5
+* Chrome: 83.0.4103.122
+* Node.js: 12.14.1
+* V8: 8.3.110.13-electron.0
 * OS: Windows_NT x64 10.0.19042
 * Memory: 1981M
 * Cores: 8
 
 ## Usage
 
-1)	Open the project in **Microsoft Excel** > under the Developer tab _run_ the VBA Macro as desired
+1)	Open the project in **Visual Studio Code** > and install any required extensions
 
-```VBA
-
-Function Col_lett(ByVal ColumnNumber As Integer)
-Col_lett = Replace(Replace(Cells(1, ColumnNumber).Address, "1", ""), "$", "")
-End Function
-Sub Weather()
-Dim Width As Single, Height As Single, NumWide As Long
-
-.
-..
-...
-
-```
+2)  Simulate away!
 
 ## Contributing
 
