@@ -9,7 +9,7 @@
 //   sum - Sum output bit
 //   cout- Carry-out bit
 
-module fulladder (
+module full_adder (
     input  wire x,
     input  wire y,
     input  wire cin,
