@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
-// Testbench for Full Adder module
+// Testbench for full_adder module
 
-module fulladder_tb;
+module full_adder_tb;
     // Inputs
     reg x;
     reg y;
@@ -11,7 +11,7 @@ module fulladder_tb;
     wire cout;
 
     // Instantiate the Unit Under Test (UUT)
-    fulladder uut (
+    full_adder uut (
         .x(x),
         .y(y),
         .cin(cin),
