@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-// Testbench for fulladder module
+// Testbench for Full Adder module
 
 module fulladder_tb;
     // Inputs
