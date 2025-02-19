@@ -29,10 +29,10 @@ This repository offers a range of digital logic circuits implemented in **VHDL**
 
 - **VHDL Simulator:**
   - **Recommended:** [ModelSim](https://eda.sw.siemens.com/en-US/ic/modelsim/)
-  - **Alternative:** [GHDL](https://ghdl.github.io/)
+  - **Alternative:** [GHDL](https://github.com/ghdl/ghdl)
 
 - **Verilog Simulator:**
-  - **Recommended:** [Icarus Verilog](https://steveicarus.github.io/)
+  - **Recommended:** [Icarus Verilog](https://github.com/steveicarus/iverilog)
   - **Alternative:** [Verilator](https://www.veripool.org/verilator/) (for advanced users comfortable with C++)
 
 - **Waveform Viewer:**
